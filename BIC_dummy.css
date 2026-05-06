@@ -1,8 +1,10 @@
-/* BIC Dummy Font*/
+
+/* BIC Dummy Font */
 @font-face {
-	font-family: 'BIC Dummy Font';
-	src:
-		url('https://raw.githubusercontent.com/hakan-keles-porsche/PorscheSAC.github.io/master/DummyFont.ttf') format('truetype');
-	font-weight: bold;
-	font-style: normal;	
+  font-family: 'BIC Dummy Font';
+  src:
+    url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/DummyFont.ttf')
+    format('truetype');
+  font-weight: bold;
+  font-style: normal;
 }
