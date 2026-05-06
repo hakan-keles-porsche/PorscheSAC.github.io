@@ -2,9 +2,9 @@
 @font-face {
 	font-family: 'Porsche Next - BoldItalic';
 	src:
-		url('https://porschesac.github.io/PorscheNextWLa-BoldItalic.woff2') format('woff2'),
-		url('https://porschesac.github.io/PorscheNextWLa-BoldItalic.woff') format('woff'),
-		url('https://porschesac.github.io/PorscheNextWLa-BoldItalic.ttf') format('truetype');
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-BoldItalic.woff2') format('woff2'),
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-BoldItalic.woff') format('woff'),
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-BoldItalic.ttf') format('truetype');
 	font-weight: bold;
 	font-style: italic;	
 }
