@@ -2,9 +2,9 @@
 @font-face {
 	font-family: 'Porsche Next - Regular';
 	src:
-		url('https://porschesac.github.io/PorscheNextWLa-Regular.woff2') format('woff2'),
-		url('https://porschesac.github.io/PorscheNextWLa-Regular.woff') format('woff'),
-		url('https://porschesac.github.io/PorscheNextWLa-Regular.ttf') format('truetype');
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-Regular.woff2') format('woff2'),
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-Regular.woff') format('woff'),
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-Regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 
@@ -12,9 +12,9 @@
 	
 	font-family: 'Porsche Next - Bold';
 	src:
-		url('https://porschesac.github.io/PorscheNextWLa-Bold.woff2') format('woff2'),
-		url('https://porschesac.github.io/PorscheNextWLa-Bold.woff') format('woff'),
-		url('https://porschesac.github.io/PorscheNextWLa-Bold.ttf') format('truetype');
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-Bold.woff2') format('woff2'),
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-Bold.woff') format('woff'),
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-Bold.ttf') format('truetype');
 	font-weight: bold;
 	font-style: normal;
 
@@ -22,9 +22,9 @@
 	
 	font-family: 'Porsche Next - BoldItalic';
 	src:
-		url('https://porschesac.github.io/PorscheNextWLa-BoldItalic.woff2') format('woff2'),
-		url('https://porschesac.github.io/PorscheNextWLa-BoldItalic.woff') format('woff'),
-		url('https://porschesac.github.io/PorscheNextWLa-BoldItalic.ttf') format('truetype');
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-BoldItalic.woff2') format('woff2'),
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-BoldItalic.woff') format('woff'),
+		url('https://hakan-keles-porsche.github.io/PorscheSAC.github.io/PorscheNextWLa-BoldItalic.ttf') format('truetype');
 	font-weight: bold;
 	font-style: italic;
 
